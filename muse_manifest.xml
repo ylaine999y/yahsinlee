@@ -1,0 +1,168 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="101305033.com" resolutions="1x" timestamp="1478527488394">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="culture.css" crc="4234564435" ref="culture"/>
+    <file name="nature.css" crc="3768650547" ref="nature"/>
+    <file name="cities.css" crc="361520556" ref="cities"/>
+    <file name="index.css" crc="526173416" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="water.mp4" crc="370315121" seo="true" mt="1477625645000"/>
+    <file name="water.webm" crc="3989897517" seo="true" mt="1425795476000"/>
+    <file name="city.mp4" crc="4049952454" seo="true" mt="1477898797000"/>
+    <file name="city.webm" crc="3989897517" seo="true" mt="1425795476000"/>
+    <file name="culture.webm" crc="3989897517" seo="true" mt="1425795476000"/>
+    <file name="culture.mp4" crc="4250175584" seo="true" mt="1477900810000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:nature:cities:culture"/>
+    <file name="museutils.js" crc="275725342" ref="index:nature:cities:culture"/>
+    <file name="webpro.js" crc="3883484123" ref="index:nature:cities:culture"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:nature:cities:culture"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:nature:cities:culture"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:nature:cities:culture"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:nature:cities:culture"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:nature:cities:culture"/>
+    <file name="pie.js" crc="3827607177" ref="nature:cities:culture"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="3949836336" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nature:cities:culture"/>
+    <file name="2.jpg" crc="4133305372" seo="true" ref="index"/>
+    <file name="3.jpg" crc="182155015" seo="true" ref="index"/>
+    <file name="6.jpg" crc="4094852717" seo="true" ref="index"/>
+    <file name="7.jpg" crc="496539626" seo="true" ref="index"/>
+    <file name="8.jpg" crc="3913934200" seo="true" ref="index"/>
+    <file name="9.jpg" crc="3762676656" seo="true" ref="index"/>
+    <file name="10.jpg" crc="3911469575" seo="true" ref="index"/>
+    <file name="11.jpg" crc="255757581" seo="true" ref="index"/>
+    <file name="4.jpg" crc="248541722" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:nature:cities:culture"/>
+    <file name="start-start1.png" crc="156784393" ref="index"/>
+    <file name="start-start2.png" crc="24203845" ref="index"/>
+    <file name="u1571_states.png" crc="3897636252" ref="index"/>
+    <file name="u1571_states-r.png" crc="481423332" ref="index"/>
+    <file name="u1571_states-a.png" crc="516558694" ref="index"/>
+    <file name="u1563_states.png" crc="496233592" ref="index"/>
+    <file name="u1563_states-r.png" crc="235798493" ref="index"/>
+    <file name="u1563_states-a.png" crc="3786068233" ref="index"/>
+    <file name="u1568_states.png" crc="83030953" ref="index"/>
+    <file name="u1568_states-r.png" crc="4151744933" ref="index"/>
+    <file name="u1568_states-a.png" crc="44750120" ref="index"/>
+    <file name="u1569_states.png" crc="3779496622" ref="index"/>
+    <file name="u1569_states-r.png" crc="531272053" ref="index"/>
+    <file name="u1569_states-a.png" crc="489091429" ref="index"/>
+    <file name="u1570_states.png" crc="3764117813" ref="index"/>
+    <file name="u1570_states-r.png" crc="3953481286" ref="index"/>
+    <file name="u1570_states-a.png" crc="3884298854" ref="index"/>
+    <file name="u1573_states.png" crc="4091529174" ref="index"/>
+    <file name="u1573_states-r.png" crc="4178190330" ref="index"/>
+    <file name="dscf2197.jpg" crc="4068156166" ref="index"/>
+    <file name="未命名-2.jpg" crc="3898117998" ref="index"/>
+    <file name="seegallery-u2452-fr.png" crc="380480051" ref="index"/>
+    <file name="seegallery-u2452-r-fr.png" crc="432098338" ref="index"/>
+    <file name="portfolio.gif" crc="3962689659" ref="index"/>
+    <file name="nature2-nature1.png" crc="4282599503" ref="index"/>
+    <file name="nature2-nature2.png" crc="349035590" ref="index"/>
+    <file name="cities-cities1.png" crc="4207414524" ref="index"/>
+    <file name="cities-cities2.png" crc="291612160" ref="index"/>
+    <file name="culture-culture1.png" crc="4028696912" ref="index"/>
+    <file name="culture-culture2.png" crc="202168712" ref="index"/>
+    <file name="service-new.jpg" crc="70439668" ref="index"/>
+    <file name="u2512-4.png" crc="4106651947" ref="index"/>
+    <file name="u2514-6.png" crc="319108040" ref="index"/>
+    <file name="email-形狀 1.png" crc="4147590225" ref="index"/>
+    <file name="email.png" crc="4109808975" ref="index"/>
+    <file name="fb-n.jpg" crc="472934505" ref="index:nature:cities:culture"/>
+    <file name="follow--ns-矩形 1.png" crc="517539216" ref="index:nature:cities:culture"/>
+    <file name="follow--ns-矩形 1 拷貝 2.png" crc="3955013134" ref="index:nature:cities:culture"/>
+    <file name="dscf9543.jpg" crc="479567063" seo="true" ref="nature"/>
+    <file name="dscf9780.jpg" crc="3944265749" seo="true" ref="nature"/>
+    <file name="f1025601.jpg" crc="4263998062" seo="true" ref="nature"/>
+    <file name="f1169670.jpg" crc="70217963" seo="true" ref="nature"/>
+    <file name="f3080109.jpg" crc="3822358028" seo="true" ref="nature"/>
+    <file name="f3080369.jpg" crc="139126679" seo="true" ref="nature"/>
+    <file name="f3090382.jpg" crc="3896932612" seo="true" ref="nature"/>
+    <file name="f3090493.jpg" crc="4218645810" seo="true" ref="nature"/>
+    <file name="f3090666.jpg" crc="237195834" seo="true" ref="nature"/>
+    <file name="f3090818.jpg" crc="4126719739" seo="true" ref="nature"/>
+    <file name="img_7895.jpg" crc="4110564750" seo="true" ref="nature"/>
+    <file name="img_8199.jpg" crc="446561633" seo="true" ref="nature"/>
+    <file name="dscf9543-crop-u1686.jpg" crc="233134855" ref="nature"/>
+    <file name="dscf9780-crop-u1695.jpg" crc="320115202" ref="nature"/>
+    <file name="f1025601-crop-u1704.jpg" crc="403597340" ref="nature"/>
+    <file name="f1169670-crop-u1713.jpg" crc="3792412201" ref="nature"/>
+    <file name="f3080109-crop-u1722.jpg" crc="4250230357" ref="nature"/>
+    <file name="f3080369-crop-u1731.jpg" crc="4124109935" ref="nature"/>
+    <file name="f3090382-crop-u1740.jpg" crc="404476207" ref="nature"/>
+    <file name="f3090493-crop-u1749.jpg" crc="130206770" ref="nature"/>
+    <file name="f3090666-crop-u1758.jpg" crc="367594172" ref="nature"/>
+    <file name="f3090818-crop-u1767.jpg" crc="3934356696" ref="nature"/>
+    <file name="img_7895-crop-u1776.jpg" crc="4059732778" ref="nature"/>
+    <file name="img_8199-crop-u1785.jpg" crc="74700641" ref="nature"/>
+    <file name="u1335-4.png" crc="63095664" ref="nature"/>
+    <file name="goback-u3235-fr.png" crc="35903916" ref="nature:cities:culture"/>
+    <file name="goback-u3235-r-fr.png" crc="4036312118" ref="nature:cities:culture"/>
+    <file name="culture-b-culture.png" crc="4233397543" ref="nature:cities"/>
+    <file name="culture-b-go back to hom2e.png" crc="4005454522" ref="nature:cities"/>
+    <file name="cities-b-cites.png" crc="3878631911" ref="nature:culture"/>
+    <file name="cities-b-go back to hom2e.png" crc="55210507" ref="nature:culture"/>
+    <file name="dscf2197-編輯.jpg" crc="496842117" seo="true" ref="cities"/>
+    <file name="dscf2961-編輯.jpg" crc="174082794" seo="true" ref="cities"/>
+    <file name="dscf3109.jpg" crc="449389976" seo="true" ref="cities"/>
+    <file name="dscf3447.jpg" crc="254970797" seo="true" ref="cities"/>
+    <file name="f1076693.jpg" crc="35456840" seo="true" ref="cities"/>
+    <file name="f1076884.jpg" crc="4201343476" seo="true" ref="cities"/>
+    <file name="f1107759.jpg" crc="3767549507" seo="true" ref="cities"/>
+    <file name="f1138883.jpg" crc="299874710" seo="true" ref="cities"/>
+    <file name="f4024119-編輯.jpg" crc="4107602341" seo="true" ref="cities"/>
+    <file name="fc263674.jpg" crc="360053594" seo="true" ref="cities"/>
+    <file name="fc304681.jpg" crc="262910875" seo="true" ref="cities"/>
+    <file name="fc304691.jpg" crc="69311817" seo="true" ref="cities"/>
+    <file name="dscf2197-編輯-crop-u1866.jpg" crc="4226765216" ref="cities"/>
+    <file name="dscf2961-編輯-crop-u1875.jpg" crc="4190870799" ref="cities"/>
+    <file name="dscf3109-crop-u1884.jpg" crc="4141531917" ref="cities"/>
+    <file name="dscf3447-crop-u1893.jpg" crc="359154498" ref="cities"/>
+    <file name="f1076693-crop-u1902.jpg" crc="4001594433" ref="cities"/>
+    <file name="f1076884-crop-u1911.jpg" crc="3873958361" ref="cities"/>
+    <file name="f1107759-crop-u1920.jpg" crc="378252110" ref="cities"/>
+    <file name="f1138883-crop-u1929.jpg" crc="101168871" ref="cities"/>
+    <file name="f4024119-編輯-crop-u1938.jpg" crc="4249247490" ref="cities"/>
+    <file name="fc263674-crop-u1947.jpg" crc="248872298" ref="cities"/>
+    <file name="fc304681-crop-u1956.jpg" crc="3960402934" ref="cities"/>
+    <file name="fc304691-crop-u1965.jpg" crc="4016333988" ref="cities"/>
+    <file name="u1410-4.png" crc="4207920037" ref="cities"/>
+    <file name="nature-b-nature.png" crc="213849938" ref="cities:culture"/>
+    <file name="nature-b-go back to hom2e.png" crc="3822229962" ref="cities:culture"/>
+    <file name="dscf3228.jpg" crc="238007050" seo="true" ref="culture"/>
+    <file name="dscf3452.jpg" crc="170932198" seo="true" ref="culture"/>
+    <file name="dscf9038.jpg" crc="254362466" seo="true" ref="culture"/>
+    <file name="f1076928.jpg" crc="3948233908" seo="true" ref="culture"/>
+    <file name="f1138862.jpg" crc="498161517" seo="true" ref="culture"/>
+    <file name="f1138919.jpg" crc="365051780" seo="true" ref="culture"/>
+    <file name="f1138985.jpg" crc="214657021" seo="true" ref="culture"/>
+    <file name="f1139098.jpg" crc="3987019371" seo="true" ref="culture"/>
+    <file name="f1159457.jpg" crc="3760230328" seo="true" ref="culture"/>
+    <file name="f1159466.jpg" crc="4137407174" seo="true" ref="culture"/>
+    <file name="f3161268-編輯.jpg" crc="4163424600" seo="true" ref="culture"/>
+    <file name="img_0799.jpg" crc="344755786" seo="true" ref="culture"/>
+    <file name="dscf3228-crop-u2046.jpg" crc="4136787640" ref="culture"/>
+    <file name="dscf3452-crop-u2055.jpg" crc="3806574404" ref="culture"/>
+    <file name="dscf9038-crop-u2064.jpg" crc="4202910252" ref="culture"/>
+    <file name="f1076928-crop-u2073.jpg" crc="33621842" ref="culture"/>
+    <file name="f1138862-crop-u2082.jpg" crc="3770876065" ref="culture"/>
+    <file name="f1138919-crop-u2091.jpg" crc="99427451" ref="culture"/>
+    <file name="f1138985-crop-u2100.jpg" crc="23367644" ref="culture"/>
+    <file name="f1139098-crop-u2109.jpg" crc="3803504567" ref="culture"/>
+    <file name="f1159457-crop-u2118.jpg" crc="4046759917" ref="culture"/>
+    <file name="f1159466-crop-u2127.jpg" crc="455356110" ref="culture"/>
+    <file name="f3161268-編輯-crop-u2136.jpg" crc="3886601831" ref="culture"/>
+    <file name="img_0799-crop-u2145.jpg" crc="450484171" ref="culture"/>
+    <file name="u1507-4.png" crc="102901401" ref="culture"/>
+  </folder>
+  <file name="index.html" crc="200629041" seo="true" mt="1478527470288" redirect="true"/>
+  <file name="nature.html" crc="3895586673" seo="true" mt="1478526637328" redirect="true"/>
+  <file name="cities.html" crc="4160003716" seo="true" mt="1478526632095" redirect="true"/>
+  <file name="culture.html" crc="3838584116" seo="true" mt="1478526625641" redirect="true"/>
+</manifest>
